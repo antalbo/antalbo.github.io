@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antalbo.github.io/sitemap.html.gz
+Sitemap: https://antalbo.github.io/app/sitemap.html.gz
+Sitemap: https://antalbo.github.io/assets/sitemap.html.gz
+Sitemap: https://antalbo.github.io/css/sitemap.html.gz
+Sitemap: https://antalbo.github.io/includes/sitemap.html.gz
+Sitemap: https://antalbo.github.io/item/sitemap.html.gz
+Sitemap: https://antalbo.github.io/src/sitemap.html.gz
